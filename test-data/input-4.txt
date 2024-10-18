@@ -1,0 +1,4 @@
+# Create a ship with stocked torpedo stores, the primary always the secondary never fail
+GT4500,2,1,2,0
+TORPEDO,SINGLE # should report failure
+TORPEDO,SINGLE # should have fired from the secondary store
